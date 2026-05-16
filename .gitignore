@@ -4,4 +4,4 @@ __pycache__/
 *.pyc
 *.pyo
 faiss.index
-embeddings.npy
+embeddings.np
